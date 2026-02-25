@@ -15,7 +15,7 @@ Este repositório contém as implementações de estruturas de dados e algoritmo
 | **[3_smart_park_github](./3_smart_park_github)** | Sistema de gerenciamento de estacionamento utilizando **Hash Tables** e lógica modular. |
 | **[2_cuscuz_github](./2_cuscuz_github)** | Algoritmo de lógica e manipulação de arrays (Problema do Cuscuz). |
 | **[1_embaralhamento_github](./1_embaralhamento_github)** | Exercício de manipulação de strings e vetores. |
-| **[00_hello_github](./00_hello_github)** | Primeiro exercício feito
+| **[00_hello_github](./00_hello_github)** | Exercício básico sobre entrada do usuário e impressão de resultados|
 
 ---
 
