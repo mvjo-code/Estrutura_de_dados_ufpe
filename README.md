@@ -1,4 +1,5 @@
-# 📚 Estrutura de Dados e Algoritmos - CIn/UFPE
+# <img src="https://icongr.am/feather/book-open.svg?size=30&color=bd93f9" align="center" alt="livro" /> Estudos
+ Estrutura de Dados e Algoritmos - CIn/UFPE
 
 Este repositório contém as implementações de estruturas de dados e algoritmos desenvolvidas durante a disciplina de **Estrutura de Dados** do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE).
 
@@ -7,7 +8,7 @@ Este repositório contém as implementações de estruturas de dados e algoritmo
 
 ---
 
-## 📂 Projetos
+## <img src="https://icongr.am/feather/folder.svg?size=30&color=bd93f9" align="center" alt="pasta" /> Arquivos do Projeto Projetos
 
 | Projeto | Descrição |
 | :--- | :--- |
@@ -19,7 +20,7 @@ Este repositório contém as implementações de estruturas de dados e algoritmo
 
 ---
 
-### 🛠️ Tecnologias e Conceitos Abordados
+### <img src="https://icongr.am/feather/tool.svg?size=30&color=bd93f9" align="center" alt="ferramentas" /> Ferramentas Tecnologias e Conceitos Abordados
 * **C++ (Modern C++)**
 * Ponteiros e Alocação Dinâmica de Memória
 * Programação Orientada a Objetos (Structs/Classes)
