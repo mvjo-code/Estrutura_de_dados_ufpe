@@ -20,7 +20,7 @@ Este repositório contém as implementações de estruturas de dados e algoritmo
 
 ---
 
-### <img src="https://icongr.am/feather/tool.svg?size=30&color=bd93f9" align="center" alt="ferramentas" /> Ferramentas Tecnologias e Conceitos Abordados
+### <img src="https://icongr.am/feather/cpu.svg?size=26&color=bd93f9" align="center" alt="icon" /> Ferramentas Tecnológicas e Conceitos Abordados
 * **C++ (Modern C++)**
 * Ponteiros e Alocação Dinâmica de Memória
 * Programação Orientada a Objetos (Structs/Classes)
